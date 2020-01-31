@@ -1,6 +1,6 @@
 opam-version: "2.0"
 name: "cmarker"
-version: "0.3.0"
+version: "0.3.1"
 maintainer: "Pablo Meier <pablo.a.meier@gmail.com>"
 authors: "Jonathan Chan <jyc@fastmail.fm>"
 homepage: "https://github.com/pablo-meier/ocaml-cmark"
