@@ -12,7 +12,6 @@ build: [ "dune" "build" "-p" name "-j" jobs]
 depends: [
   "ocaml"
   "ctypes-foreign" {>= "0.4.0"}
-  "utop"
 ]
 depexts: [
   [["homebrew" "osx"] ["cmark"]]
